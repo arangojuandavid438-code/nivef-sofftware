@@ -47,3 +47,6 @@ Git no guarda carpetas vacías. Para que `src/` y `docs/` existan en el reposito
 ## Cómo trabajar
 
 Antes de aportar, lee [CONTRIBUTING.md](CONTRIBUTING.md).
+
+
+Mudamos a un nuevo repositorio para presentar las actividades de la clase de Desarrollo de Software, este repositorio está asociado a una organización y es para responder con trabajo a las clases del profesor Victor Ibarguen
