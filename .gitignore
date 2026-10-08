@@ -1,0 +1,8 @@
+# Archivos generados por Python
+__pycache__/
+
+# Entorno virtual con las librerías instaladas
+.venv/
+
+# Claves y contraseñas
+.env
